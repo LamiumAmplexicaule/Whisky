@@ -11,6 +11,6 @@ Not all whiskies are covered.
 ## 書式 Format
 
 ```
-商品名，JANコード，容量，度数, 定価(税抜)，販売元
+商品名， JANコード， 容量， 度数, 定価(税抜)， 販売元
 Product name, JAN Code, Volume, Percentage, Retail price (excluding tax), Distributor
 ```
